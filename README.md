@@ -35,7 +35,7 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 </p>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="./public/image/portfolio.gif" target="_blank">
     <strong>🚀 View Live Demo</strong>
   </a>
 </p>
